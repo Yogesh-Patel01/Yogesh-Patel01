@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hii-There!&height=100&section=header"/>
 </p>
 <p align="left">
-  👋 This is <b>Yogesh Patel</b>
-  👀 I’m currently persuing my Masters (Computer Application) from National Institute of Technology, Bhopal.
   <ul>
-    <li>Coffee</li>
-    <li>Tea</li>
+    <li>👋 This is <b>Yogesh Patel</b></li>
+    <li>👀 I’m currently persuing my Masters(Computer Application) from Motilal Nehru National Institute of Technology,Prayagraj.</li>
     <li>Milk</li>
   </ul>
 </p>
