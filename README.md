@@ -21,7 +21,7 @@
 <p align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-vertical.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="vscode" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
