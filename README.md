@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hii-There!&height=100&section=header"/>
 </p>
 <p align="left">
-  This is <b>Yogesh Patel</b>
+  👋 This is <b>Yogesh Patel</b>
 </p>
-<h1 align="center">
+<h1 align="center"> 
   Let's Connect and have a Chat!💬
 </h1>
 <p align="center">
