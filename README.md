@@ -17,7 +17,7 @@
   <img src= "https://media.giphy.com/media/KExih5tI7WAAKc5F3Q/giphy.gif">
 </p>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
