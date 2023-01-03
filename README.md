@@ -3,9 +3,10 @@
 </p>
 <p align="left">
   <ul>
-    <li>👋 This is <b>Yogesh Patel</b></li>
+    <li>👋 This is <b>Yogesh Patel</b>.</li>
     <li>👀 I’m currently persuing my Masters(Computer Application) from Motilal Nehru National Institute of Technology,Prayagraj.</li>
-    <li>Milk</li>
+    <li>🌱 I’m interested in C, C++ and JAVA.</li>
+    <li>📫 How to reach me ... write to yogesh,yash1713@gmail.com</li>
   </ul>
 </p>
 <h1 align="center"> 
