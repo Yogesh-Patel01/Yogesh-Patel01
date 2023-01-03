@@ -17,8 +17,8 @@
   <img src= "https://media.giphy.com/media/KExih5tI7WAAKc5F3Q/giphy.gif">
 </p>
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
+<h2 align="left"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/>
@@ -28,16 +28,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   
-</p>
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/Yogesh-Patel01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yogesh-Patel01&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Patel01&theme=noctis_minimus&layout=compact" />
-</a>
-
-![Snake animation](https://github.com/thepiyushmalhotra/Yogesh-Patel01/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
