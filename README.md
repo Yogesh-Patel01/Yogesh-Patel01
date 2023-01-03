@@ -3,6 +3,12 @@
 </p>
 <p align="left">
   👋 This is <b>Yogesh Patel</b>
+  👀 I’m currently persuing my Masters (Computer Application) from National Institute of Technology, Bhopal.
+  <ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ul>
 </p>
 <h1 align="center"> 
   Let's Connect and have a Chat!💬
