@@ -14,6 +14,6 @@
 </p>
 
 <p align="center">
-  <img src= "[https://tenor.com/view/phir-hera-pheri-raju-akshay-kumar-chill-gif-17633617](https://giphy.com/gifs/nickelodeon-KExih5tI7WAAKc5F3Q/fullscreen)">
+  <img src= "https://media.giphy.com/media/KExih5tI7WAAKc5F3Q/giphy.gif">
 </p>
 
