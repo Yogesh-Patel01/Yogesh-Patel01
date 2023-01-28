@@ -9,14 +9,6 @@
     <li>📫 How to reach me ... write to <a href="yogesh.yash1713@gmail.com">yogesh.yash1713@gmail.com</a></li>
   </ul>
 </p>
-<h1 align="center"> 
-  Let's Connect and have a Chat!💬
-</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/yogesh-patel-756856205/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-</p>
 
 <p align="center">
   <img src= "https://media.giphy.com/media/KExih5tI7WAAKc5F3Q/giphy.gif">
