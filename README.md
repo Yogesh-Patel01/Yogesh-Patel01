@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hii-There!&height=100&section=header"/>
 </p>
-<p align="left">
+<p align="left" style="font-family: Cursive,	Brush Script MT, Lucida Handwriting;">
   <ul>
     <li><h1>👋 This is <b>Yogesh Patel</b>.</h1></li>
     <h3>
