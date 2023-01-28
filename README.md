@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hii-There!&height=100&section=header"/>
 </p>
-<p align="left" style="font-family: Cursive,	Brush Script MT, Lucida Handwriting;">
+<p align="left" >
   <ul>
-    <li><h1>👋 This is <b>Yogesh Patel</b>.</h1></li>
+    <li><h1 style="font-family: Cursive,	Brush Script MT, Lucida Handwriting;">👋 This is <b>Yogesh Patel</b>.</h1></li>
     <h3>
     <li>👀 I’m currently persuing my Masters(Computer Application) from Motilal Nehru National Institute of Technology,Prayagraj.</li>
     <li>🌱 I’m interested in C, C++ and JAVA.</li>
